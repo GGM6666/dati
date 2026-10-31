@@ -1,0 +1,6 @@
+{
+  "version": "0.3.6",
+  "notes": "· 新增插件升级提示：打开弹窗时自动检查，工具栏图标会点红点，可忽略指定版本\n· 修复：更换题库链接后 10 分钟内自动更新被旧时间戳挡掉\n· 修复：关闭悬浮窗后后台仍在自动勾选\n· 修复：解除复制限制的样式改为静态注入，避免被页面 CSP 拦截",
+  "url": "https://git.example.com/your-name/quiz-helper/releases/latest",
+  "publishedAt": "2026-10-31"
+}
