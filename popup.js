@@ -4,7 +4,7 @@
   const DEFAULTS = {
     qb_questions: [],          // 本地题库（手动录入 + 导入）
     qb_remote_questions: [],   // 远程题库（从链接加载）
-    qb_remote_url: "https://raw.giteeusercontent.com/GGM6666/dati/raw/main/question.json",// 默认的远程题库
+    qb_remote_url: "https://raw.githubusercontent.com/GGM6666/demo/refs/heads/main/question.json",// 默认的远程题库
     qb_remote_fetched_at: 0,   // 上次成功拉取远程题库的时间（做自动更新节流）
     qb_threshold: 70,
     qb_selectors: "",          //题目识别默认值的class
