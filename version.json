@@ -1,5 +1,5 @@
 {
-  "version": "0.3.8",
+  "version": "0.3.9",
   "notes": "· 修复：忽略某版本后连手动检查都不再提示，现在点版本号可以重新调出更新提示\n· 修复：点开关后悬停说明气泡不消失（改用 :focus-visible，鼠标点击不再留住焦点提示）\n· 升级提示条 ✕ 的悬停说明改为「忽略此版本（点版本号可重新查看）」",
   "url": "https://gitee.com/GGM6666/demo/releases/latest/download/demo-main.zip",
   "publishedAt": "2026-10-31"
