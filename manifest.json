@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "网课学习助手",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "description": "网页题目自动识别、本地题库匹配高亮答案、本地搜索、强制解除复制限制",
   "permissions": ["storage", "unlimitedStorage"],
   "host_permissions": ["<all_urls>"],
