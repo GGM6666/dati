@@ -18,7 +18,7 @@
         <h1>网课学习助手</h1>
         <p class="sub">题库匹配 · 答案高亮 · 解除复制限制</p>
       </div>
-      <span class="ver" id="app-ver">v0.3.6</span>
+      <span class="ver" id="app-ver">v0.3.7</span>
     </div>
   </header>
 
@@ -135,23 +135,8 @@
             </svg>
           </span>
           <h2>版本与更新</h2>
-          <span class="badge" id="ver-now">当前 v0.3.6</span>
+          <button type="button" class="badge ver-btn" id="ver-now" title="点击检查更新">当前 v0.3.7</button>
         </div>
-
-        <label class="switch-row compact">
-          <span class="switch-body">
-            <span class="switch-title">打开弹窗时检查更新</span>
-            <span class="switch-desc">6 小时最多查一次，只提示不自动下载安装</span>
-          </span>
-          <input type="checkbox" id="update-enabled" checked>
-          <span class="switch-track"><span class="switch-dot"></span></span>
-        </label>
-
-        <div class="field-row">
-          <input type="text" id="update-url" placeholder="version.json 地址（留空用题库链接所在仓库）">
-          <button type="button" id="update-check">检查</button>
-        </div>
-        <p class="status" id="update-status"></p>
       </section>
     </section>
 
